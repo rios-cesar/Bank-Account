@@ -33,7 +33,7 @@ C:\ BankAccount> java BankAccount
 
 ### Methods and use of packages: 
 
-For this problem I utilized the java.io packake which is needed to perform input and output in Java. 
+For this problem I utilized the java.io package which is needed to perform input and output in Java. 
 The java.math.BigDecimal package was used to handle rounding and format conversion. That package is 
 also beneficial for error-checking so that the program only accepts positive floats with 1 or two 
 decimal places. Lastly, the java.until.Scanner class was used to obtain input data from the user.
