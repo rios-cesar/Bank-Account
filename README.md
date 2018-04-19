@@ -31,7 +31,7 @@ C:\Users\username>cd C:\ BankAccount
 C:\ BankAccount >javac BankAccount.java
 C:\ BankAccount> java BankAccount
 
-### **Methods and use of packages: **
+### Methods and use of packages: 
 
 For this problem I utilized the java.io packake which is needed to perform input and output in Java. 
 The java.math.BigDecimal package was used to handle rounding and format conversion. That package is 
