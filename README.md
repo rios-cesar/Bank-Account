@@ -1,4 +1,4 @@
-### **How to run from the Windows command line**
+### How to run from the Windows command line
 
 1. Download and install the latest version of the  Java Platform, Standard Edition Development Kit .
 The installation directory something like  C:\Program Files\Java\jdk1.XX_XX\bin.
